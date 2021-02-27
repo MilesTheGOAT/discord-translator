@@ -35,7 +35,6 @@ client.on('message', message => {
         channelTo.send('```' + message.content + '```' + out);
     }
 
-    //console.log(message);
 
     if (message.author.bot) return;
     switch (message.channel.name) {

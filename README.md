@@ -1,6 +1,8 @@
 # Discord Translator
 
-Open source Discord Translator bot allowing users to host their own translator for their server. Currently this only works for one server at a time however this should change in the near future and allow multi-server translations.Please note: Google Translate API allows 500k characters to be translated for free per month and charge after that.
+Open source Discord Translator bot allowing users to host their own translator for their server. 
+
+Currently this only works for one server at a time however this should change in the near future and allow multi-server translations.Please note: Google Translate API allows 500k characters to be translated for free per month and charge after that.
 
 * [Installation](https://github.com/MilesTheGOAT/discord-translator#istallation)
 * [TODO](https://github.com/MilesTheGOAT/discord-translator#todo)
@@ -42,7 +44,11 @@ To start the bot open terminal/command prompt in the containing folder and use `
 # Donations
 As this bot will be hosted for anyone to use once multi-server support has been added if anyone would like to contribute towards helping the bot stay online (server & API costs) it would be greatly appreciated.
 
-Bitcoin & Monero addresses will be added
+BTC: 1DBTmc2wsy6pPUPPDWou4hGBgsDXTFoG5
+
+BTC(SegWit): bc1qsv3vtt6usw88d09eruj6nd5y8ac5r20wg7d4zd
+
+Monero: 84Ls858NWtK9AxQ1Adayk2N3VKMMFWiyEfpFSFJapxw6PmtWjNx8cyEMFKwXRLgfmqPK5hwaoUNQa5KcKsQQ3t38166VYvt
 
 # License
 
