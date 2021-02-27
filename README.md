@@ -2,7 +2,7 @@
 
 Open source Discord Translator bot allowing users to host their own translator for their server. Currently this only works for one server at a time however this should change in the near future and allow multi-server translations.Please note: Google Translate API allows 500k characters to be translated for free per month and charge after that.
 
-[Installation](https://github.com/MilesTheGOAT/discord-translator#istallation)
+[Installation](https://github.com/MilesTheGOAT/discord-translator#installation)
 
 ---
 
